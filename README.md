@@ -11,4 +11,4 @@ Hello, I am a Flying Falcon
 
 ![Falcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nav-github01001&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nav-github01001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nav-github01001&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
