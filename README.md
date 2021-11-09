@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, I am a Flying Falcon
 
-- 🔭 I’m currently working on <u>**My own Music Player(Like Winamp and VLC)**</u> in Python 
+- 🔭 I’m currently working on **__My own Music Player(Like Winamp and VLC)__** in Python 
 
 - 🌱 I’m currently learning Python and JS(a 'bit' Hard)
 
