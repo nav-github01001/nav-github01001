@@ -3,7 +3,7 @@ Hello, I am a Flying Falcon
 
 - 🔭 I’m currently working on **_My own Music Player(Like Winamp and VLC)_** in Python 
 
-- 🌱 I’m currently learning Python and JS(a 'bit' Hard)
+- 🌱 I’m currently learning Python, JS, C#(a 'bit' Hard)
 
 - 😄 Pronouns: He
 
