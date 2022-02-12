@@ -3,7 +3,7 @@ Hello, I am a Flying Falcon.
 <br>
 Also a person who wants to be an grey-hat
 
-- 🔭 I’m currently working on **_My own Music Player(Like Winamp and VLC)_** in Python 
+- 🔭 I’m currently working on EpikCord.py
 
 - 🌱 I’m currently learning Python, JS, C#(a 'bit' Hard)
 
